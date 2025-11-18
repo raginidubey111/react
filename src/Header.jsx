@@ -17,11 +17,11 @@ const Header = () => {
 
 <div>
 <ul id="head-ul">
-<li className="head-li"><input type="text" placeholder="Search" /></li>
-<li className="head-li">Center</li>
-<li className="head-li">Help</li>
-<li className="head-li">Sign In </li>
-<li className="head-li">Cart</li>
+<li className="head-li"><input type="text" placeholder=" 🔍Search" /></li>
+<li className="head-li">🆕 Offer</li>
+<li className="head-li">☮️ Help</li>
+<li className="head-li">👤 Sign In </li>
+<li className="head-li">💼 Cart</li>
 </ul>
 
 </div></div>
